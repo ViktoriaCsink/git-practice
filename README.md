@@ -5,5 +5,5 @@ Welcome! This is a repository you can safely make commits to and play around wit
 S2DS Virtual October 2019 Participants:
 
 -- Darine Abdelahad
--- Viktoria Csink (2020)
+-- Viktoria Csink
 
